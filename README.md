@@ -48,5 +48,5 @@ This project showcases how I cleaned and normalized a messy e-commerce sales dat
 
 **Joseph Ifechukwu**  
 🎓 Mass Communication Student | 📊 Aspiring Data Analyst | 🛒 E-commerce Enthusiast  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile) <!-- Replace with your actual LinkedIn URL -->
+🔗 [LinkedIn Profile](www.linkedin.com/in/nnaemeka-joseph-ifechukwu-0119bb353) 
 
